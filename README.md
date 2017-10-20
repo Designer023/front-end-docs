@@ -4,9 +4,9 @@
 
 To create a set of documents that covers most aspects of front end work.
 
-### CSS
+## CSS
 
-#### Documentation
+### Documentation
 
 - [BEM](CSS/BEM.md)
 
