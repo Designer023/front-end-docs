@@ -1,4 +1,4 @@
-# Using React (A basic guide)
+# Anatomy of a React App
 
 React's primary job is to render HTML. Each component has a render function that returns the HTML that react will create.
 
