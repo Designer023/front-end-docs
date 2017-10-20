@@ -4,23 +4,20 @@
 
 To create a set of documents that covers most aspects of front end work.
 
-## Documentation
+### CSS
 
-### Code standards and syntax
+#### Documentation
 
 - [BEM](CSS/BEM.md)
 
-### JavaScript
+## JavaScript
 
-#### React
+### React
 
-- [React](JavaScript/react.md)
+#### Documentation
 
+- [Introduction to React](JavaScript/react.md)
 
-## Examples
-
-### JavaScript
-
-#### React
+#### Examples
 
 - [React - Basic example](JavaScript/examples/react/basic) - A modern JS (ES6) React app using WebPack to compile and Babel to transform to ES5
