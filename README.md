@@ -12,7 +12,7 @@ To create a set of documents that covers most aspects of front end work.
 
 ### [React](JavaScript/react)
 
-- [Introduction to React](JavaScript/react/README.md)
+- [Introduction to React](JavaScript/react/01.intro.md)
 
 #### Examples
 
