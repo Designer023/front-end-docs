@@ -21,6 +21,8 @@ To create a set of documents that covers most aspects of front end work.
 
 ## Resources
 
+To save digging around existing projects for code examples and then cutting out the unnecessary parts...
+
 ### WebPack configs
 
 - [React - ES6 / Babel](resources/webpack/react.webpack.config.js)
