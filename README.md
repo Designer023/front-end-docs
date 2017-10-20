@@ -6,15 +6,11 @@ To create a set of documents that covers most aspects of front end work.
 
 ## CSS
 
-### Documentation
-
 - [BEM](CSS/BEM.md)
 
 ## JavaScript
 
 ### React
-
-#### Documentation
 
 - [Introduction to React](JavaScript/react.md)
 
